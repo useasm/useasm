@@ -47,21 +47,3 @@ $ tree
 <img src="https://streak-stats.demolab.com?user=asd12sdqwuas&theme=transparent&hide_border=true"/>
 
 </div>
-
----
-
-## featured
-
-- Pure Glory
-- satanctl
-- ...
-
----
-
-<div align="center">
-
-<a href="https://t.me/useasm">telegram</a> •
-<a href="https://satanctl.bandcamp.com">bandcamp</a> •
-<a href="https://github.com/asd12sdqwuas">github</a>
-
-</div>
