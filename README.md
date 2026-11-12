@@ -1,49 +1,9 @@
-<div align="center">
+<p align="center">the worst is still to come</p>
 
-# useasm
-
-software • systems • experiments
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,go,ts,react,vite,tailwind,docker,postgres,git,linux,bash&theme=dark&perline=7"/>
-
-</div>
-
----
-
-```text
-$ tree
-
-.
-├── languages
-│   ├── C
-│   ├── C++
-│   ├── Python
-│   ├── Go
-│   └── TypeScript
-│
-├── stack
-│   ├── React
-│   ├── Vite
-│   ├── Tailwind CSS
-│   ├── Docker
-│   └── PostgreSQL
-│
-└── status
-    └── building...
-```
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=asd12sdqwuas&show_icons=true&theme=transparent&hide_border=true&hide_title=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asd12sdqwuas&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=asd12sdqwuas&theme=transparent&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
